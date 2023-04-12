@@ -11,7 +11,8 @@ tecnologias utilizadas: HTML, CSS e JavaScript.
 Projeto feito para deixar funcional cada tecla com seu respectivo som atraves do Javascript.
 
 ```
-Modo de navegação pode ser feita atraves da tecla Tab até o som desejado e 
+Modo de navegação pode ser feito atraves da tecla Tab até o som desejado e 
 apertando Enter ou Barra de Espaço no som desejado, podendo tambem de maneira mais simples
 ser usado atraves do mouse.
+Para navegação mobile apenas toque nos botões desejados.
 ```
